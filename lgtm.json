@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.3.0/lgtm_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.4.0/lgtm_0.4.0_windows_amd64.zip",
             "bin": [
                 "lgtm.exe"
             ],
-            "hash": "b32ff0b15a8cb26a4af7ea1caed56fe40aa76499c10489a6071919340e92bacc"
+            "hash": "a534f1985b16c7cdedd4ea115dc245234ebdab357b42751a1ca5d3a384af408d"
         },
         "arm64": {
-            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.3.0/lgtm_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.4.0/lgtm_0.4.0_windows_arm64.zip",
             "bin": [
                 "lgtm.exe"
             ],
-            "hash": "f74243df63208d555314fef3e115d9bf7d9d5834cc249b4e414374428516f09a"
+            "hash": "87abb798f0c44a4ce169baea1ca91ab3b2a0be1726dd4310d7e743f5f0c73b33"
         }
     },
     "homepage": "https://github.com/dennishammarstrand/lgtm",
