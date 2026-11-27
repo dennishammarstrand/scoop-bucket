@@ -1,0 +1,25 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.1.0/lgtm_0.1.0_windows_amd64.zip",
+            "bin": [
+                "lgtm.exe"
+            ],
+            "hash": "f95080134c7147633f832ddd795849993e49ccbc0c487076d4a486922a85093a"
+        },
+        "arm64": {
+            "url": "https://github.com/dennishammarstrand/lgtm/releases/download/v0.1.0/lgtm_0.1.0_windows_arm64.zip",
+            "bin": [
+                "lgtm.exe"
+            ],
+            "hash": "67e2b6ef83f6227cdbbe94b54964e29984c219f8d525aefdcd561397f71fda18"
+        }
+    },
+    "homepage": "https://github.com/dennishammarstrand/lgtm",
+    "license": "MIT",
+    "description": "Terminal UI for GitHub pull request reviews",
+    "depends": [
+        "gh"
+    ]
+}
